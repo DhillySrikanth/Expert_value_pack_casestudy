@@ -1,0 +1,15 @@
+Product_ID,Category,Product_Name,Description,UOM,Standard_Price_INR,Standard_Cost_INR
+P001,Strapping Solutions,PP Strapping Roll,"Polypropylene strapping roll, 12mm",Meter,95,55
+P002,Strapping Solutions,PET Strapping Roll,"PET strapping roll, heavy duty",Kg,125,72
+P003,Protective Packaging,Bubble Wrap Roll,Air bubble protective packaging roll,Roll,850,510
+P004,Protective Packaging,EPE Foam Roll,EPE foam protective packaging roll,Roll,1450,890
+P005,Stretch / Film Solutions,Stretch Film Roll,Industrial stretch film roll,Roll,620,360
+P006,Stretch / Film Solutions,Shrink Film Roll,Customized shrink film roll,Roll,780,455
+P007,Pallet Solutions,Wooden Pallet,Standard wooden export pallet,Nos,950,610
+P008,Pallet Solutions,Plastic Pallet,Reusable industrial plastic pallet,Nos,2450,1640
+P009,Packaging Tools & Equipment,Manual Strapping Tool,Manual tensioner/sealer tool,Nos,3200,2180
+P010,Packaging Tools & Equipment,Battery Strapping Machine,Battery-operated strapping machine,Nos,38500,28200
+P011,Customized Carton Boxes,5-Ply Corrugated Box,Customized 5-ply corrugated carton,Nos,58,34
+P012,Customized Carton Boxes,7-Ply Corrugated Box,Heavy-duty customized 7-ply carton,Nos,92,56
+P013,Material Handling,Platform Trolley,Industrial material handling trolley,Nos,7800,5450
+P014,Material Handling,Hand Pallet Truck,Manual hand pallet truck,Nos,18500,13200

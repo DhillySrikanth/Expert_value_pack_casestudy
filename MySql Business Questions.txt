@@ -1,0 +1,23 @@
+MySQL Business Questions
+
+🟢 Basic — 5 Questions
+
+1. What is the total revenue, total cost, and gross profit generated from all orders?
+2. Which product categories generate the highest sales and total quantity sold?
+3. Which regions generate the highest sales, orders, and gross profit?
+4. Who are the top 10 customers based on total sales, and how many orders has each customer placed?
+5. What is the total sales, amount paid, and outstanding amount by payment status?
+
+🟡 Intermediate — 4 Questions
+
+6. Which products generate high sales but comparatively low profit margins?
+7. Which customers have both high sales and high outstanding payments?
+8. Which products are currently below their reorder level, and how many months have they experienced low-stock conditions?
+9. Which product categories have the longest average production time and what is their average production completion percentage?
+
+🔴 Advanced — 4 Questions
+
+10. Are longer production times associated with higher dispatch delays across product categories
+11. How is monthly sales performance changing, and what is the month-over-month sales growth?
+12. How concentrated is company revenue among customers, and which customers contribute to the majority of total revenue?
+13. Which salespersons generate strong sales and profitability, considering total orders, total sales, gross profit, profit margin, and average order value?

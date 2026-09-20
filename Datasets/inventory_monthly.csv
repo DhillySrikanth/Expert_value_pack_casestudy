@@ -1,0 +1,169 @@
+Snapshot_Month,Product_ID,Product_Name,Category,Opening_Stock,Purchases,Consumption,Closing_Stock,Reorder_Level,Stock_Status
+2025-01-01,P001,PP Strapping Roll,Strapping Solutions,534,367,44,857,20,Excess Stock
+2025-01-01,P002,PET Strapping Roll,Strapping Solutions,271,93,136,228,61,Excess Stock
+2025-01-01,P003,Bubble Wrap Roll,Protective Packaging,529,381,199,711,89,Excess Stock
+2025-01-01,P004,EPE Foam Roll,Protective Packaging,250,498,164,584,73,Excess Stock
+2025-01-01,P005,Stretch Film Roll,Stretch / Film Solutions,362,446,381,427,171,Normal
+2025-01-01,P006,Shrink Film Roll,Stretch / Film Solutions,76,313,254,135,114,Normal
+2025-01-01,P007,Wooden Pallet,Pallet Solutions,519,368,354,533,159,Excess Stock
+2025-01-01,P008,Plastic Pallet,Pallet Solutions,480,338,390,428,175,Normal
+2025-01-01,P009,Manual Strapping Tool,Packaging Tools & Equipment,243,37,208,72,93,Low Stock
+2025-01-01,P010,Battery Strapping Machine,Packaging Tools & Equipment,561,349,276,634,124,Excess Stock
+2025-01-01,P011,5-Ply Corrugated Box,Customized Carton Boxes,190,327,398,119,179,Low Stock
+2025-01-01,P012,7-Ply Corrugated Box,Customized Carton Boxes,210,182,312,80,140,Low Stock
+2025-01-01,P013,Platform Trolley,Material Handling,451,394,59,786,26,Excess Stock
+2025-01-01,P014,Hand Pallet Truck,Material Handling,99,83,363,0,163,Low Stock
+2025-02-01,P001,PP Strapping Roll,Strapping Solutions,182,287,235,234,105,Normal
+2025-02-01,P002,PET Strapping Roll,Strapping Solutions,285,450,152,583,68,Excess Stock
+2025-02-01,P003,Bubble Wrap Roll,Protective Packaging,560,26,98,488,44,Excess Stock
+2025-02-01,P004,EPE Foam Roll,Protective Packaging,518,401,104,815,46,Excess Stock
+2025-02-01,P005,Stretch Film Roll,Stretch / Film Solutions,59,391,46,404,20,Excess Stock
+2025-02-01,P006,Shrink Film Roll,Stretch / Film Solutions,477,268,257,488,115,Excess Stock
+2025-02-01,P007,Wooden Pallet,Pallet Solutions,282,212,140,354,63,Excess Stock
+2025-02-01,P008,Plastic Pallet,Pallet Solutions,144,186,309,21,139,Low Stock
+2025-02-01,P009,Manual Strapping Tool,Packaging Tools & Equipment,528,81,211,398,94,Excess Stock
+2025-02-01,P010,Battery Strapping Machine,Packaging Tools & Equipment,517,153,446,224,200,Normal
+2025-02-01,P011,5-Ply Corrugated Box,Customized Carton Boxes,537,492,321,708,144,Excess Stock
+2025-02-01,P012,7-Ply Corrugated Box,Customized Carton Boxes,225,264,214,275,96,Normal
+2025-02-01,P013,Platform Trolley,Material Handling,511,485,204,792,91,Excess Stock
+2025-02-01,P014,Hand Pallet Truck,Material Handling,398,222,292,328,131,Normal
+2025-03-01,P001,PP Strapping Roll,Strapping Solutions,480,481,349,612,157,Excess Stock
+2025-03-01,P002,PET Strapping Roll,Strapping Solutions,151,166,170,147,76,Normal
+2025-03-01,P003,Bubble Wrap Roll,Protective Packaging,385,131,249,267,112,Normal
+2025-03-01,P004,EPE Foam Roll,Protective Packaging,463,76,52,487,23,Excess Stock
+2025-03-01,P005,Stretch Film Roll,Stretch / Film Solutions,330,97,240,187,108,Normal
+2025-03-01,P006,Shrink Film Roll,Stretch / Film Solutions,572,45,39,578,20,Excess Stock
+2025-03-01,P007,Wooden Pallet,Pallet Solutions,382,402,168,616,75,Excess Stock
+2025-03-01,P008,Plastic Pallet,Pallet Solutions,302,198,38,462,20,Excess Stock
+2025-03-01,P009,Manual Strapping Tool,Packaging Tools & Equipment,543,112,298,357,134,Normal
+2025-03-01,P010,Battery Strapping Machine,Packaging Tools & Equipment,346,50,164,232,73,Excess Stock
+2025-03-01,P011,5-Ply Corrugated Box,Customized Carton Boxes,75,255,191,139,85,Normal
+2025-03-01,P012,7-Ply Corrugated Box,Customized Carton Boxes,185,146,295,36,132,Low Stock
+2025-03-01,P013,Platform Trolley,Material Handling,554,61,345,270,155,Normal
+2025-03-01,P014,Hand Pallet Truck,Material Handling,139,451,218,372,98,Excess Stock
+2025-04-01,P001,PP Strapping Roll,Strapping Solutions,291,112,110,293,49,Excess Stock
+2025-04-01,P002,PET Strapping Roll,Strapping Solutions,489,136,355,270,159,Normal
+2025-04-01,P003,Bubble Wrap Roll,Protective Packaging,171,324,379,116,170,Low Stock
+2025-04-01,P004,EPE Foam Roll,Protective Packaging,363,415,414,364,186,Normal
+2025-04-01,P005,Stretch Film Roll,Stretch / Film Solutions,520,465,357,628,160,Excess Stock
+2025-04-01,P006,Shrink Film Roll,Stretch / Film Solutions,591,433,280,744,126,Excess Stock
+2025-04-01,P007,Wooden Pallet,Pallet Solutions,397,88,344,141,154,Low Stock
+2025-04-01,P008,Plastic Pallet,Pallet Solutions,99,85,266,0,119,Low Stock
+2025-04-01,P009,Manual Strapping Tool,Packaging Tools & Equipment,275,264,23,516,20,Excess Stock
+2025-04-01,P010,Battery Strapping Machine,Packaging Tools & Equipment,351,61,229,183,103,Normal
+2025-04-01,P011,5-Ply Corrugated Box,Customized Carton Boxes,317,126,286,157,128,Normal
+2025-04-01,P012,7-Ply Corrugated Box,Customized Carton Boxes,75,26,144,0,64,Low Stock
+2025-04-01,P013,Platform Trolley,Material Handling,94,404,49,449,22,Excess Stock
+2025-04-01,P014,Hand Pallet Truck,Material Handling,406,166,65,507,29,Excess Stock
+2025-05-01,P001,PP Strapping Roll,Strapping Solutions,510,462,426,546,191,Normal
+2025-05-01,P002,PET Strapping Roll,Strapping Solutions,587,425,334,678,150,Excess Stock
+2025-05-01,P003,Bubble Wrap Roll,Protective Packaging,426,166,446,146,200,Low Stock
+2025-05-01,P004,EPE Foam Roll,Protective Packaging,454,301,226,529,101,Excess Stock
+2025-05-01,P005,Stretch Film Roll,Stretch / Film Solutions,347,338,420,265,189,Normal
+2025-05-01,P006,Shrink Film Roll,Stretch / Film Solutions,66,287,213,140,95,Normal
+2025-05-01,P007,Wooden Pallet,Pallet Solutions,90,200,21,269,20,Excess Stock
+2025-05-01,P008,Plastic Pallet,Pallet Solutions,599,91,263,427,118,Excess Stock
+2025-05-01,P009,Manual Strapping Tool,Packaging Tools & Equipment,125,28,427,0,192,Low Stock
+2025-05-01,P010,Battery Strapping Machine,Packaging Tools & Equipment,416,176,90,502,40,Excess Stock
+2025-05-01,P011,5-Ply Corrugated Box,Customized Carton Boxes,126,56,237,0,106,Low Stock
+2025-05-01,P012,7-Ply Corrugated Box,Customized Carton Boxes,231,458,288,401,129,Excess Stock
+2025-05-01,P013,Platform Trolley,Material Handling,168,43,353,0,158,Low Stock
+2025-05-01,P014,Hand Pallet Truck,Material Handling,566,463,394,635,177,Excess Stock
+2025-06-01,P001,PP Strapping Roll,Strapping Solutions,119,112,219,12,98,Low Stock
+2025-06-01,P002,PET Strapping Roll,Strapping Solutions,86,329,185,230,83,Normal
+2025-06-01,P003,Bubble Wrap Roll,Protective Packaging,230,125,204,151,91,Normal
+2025-06-01,P004,EPE Foam Roll,Protective Packaging,300,126,251,175,112,Normal
+2025-06-01,P005,Stretch Film Roll,Stretch / Film Solutions,422,131,130,423,58,Excess Stock
+2025-06-01,P006,Shrink Film Roll,Stretch / Film Solutions,296,391,30,657,20,Excess Stock
+2025-06-01,P007,Wooden Pallet,Pallet Solutions,564,310,435,439,195,Normal
+2025-06-01,P008,Plastic Pallet,Pallet Solutions,405,195,236,364,106,Excess Stock
+2025-06-01,P009,Manual Strapping Tool,Packaging Tools & Equipment,51,44,375,0,168,Low Stock
+2025-06-01,P010,Battery Strapping Machine,Packaging Tools & Equipment,482,116,83,515,37,Excess Stock
+2025-06-01,P011,5-Ply Corrugated Box,Customized Carton Boxes,566,180,173,573,77,Excess Stock
+2025-06-01,P012,7-Ply Corrugated Box,Customized Carton Boxes,229,258,162,325,72,Excess Stock
+2025-06-01,P013,Platform Trolley,Material Handling,165,118,440,0,198,Low Stock
+2025-06-01,P014,Hand Pallet Truck,Material Handling,143,457,240,360,108,Excess Stock
+2025-07-01,P001,PP Strapping Roll,Strapping Solutions,210,213,153,270,68,Excess Stock
+2025-07-01,P002,PET Strapping Roll,Strapping Solutions,280,344,350,274,157,Normal
+2025-07-01,P003,Bubble Wrap Roll,Protective Packaging,120,277,370,27,166,Low Stock
+2025-07-01,P004,EPE Foam Roll,Protective Packaging,394,484,199,679,89,Excess Stock
+2025-07-01,P005,Stretch Film Roll,Stretch / Film Solutions,369,297,125,541,56,Excess Stock
+2025-07-01,P006,Shrink Film Roll,Stretch / Film Solutions,242,360,181,421,81,Excess Stock
+2025-07-01,P007,Wooden Pallet,Pallet Solutions,175,461,204,432,91,Excess Stock
+2025-07-01,P008,Plastic Pallet,Pallet Solutions,468,205,340,333,153,Normal
+2025-07-01,P009,Manual Strapping Tool,Packaging Tools & Equipment,599,420,433,586,194,Excess Stock
+2025-07-01,P010,Battery Strapping Machine,Packaging Tools & Equipment,180,240,167,253,75,Excess Stock
+2025-07-01,P011,5-Ply Corrugated Box,Customized Carton Boxes,553,174,380,347,171,Normal
+2025-07-01,P012,7-Ply Corrugated Box,Customized Carton Boxes,496,476,35,937,20,Excess Stock
+2025-07-01,P013,Platform Trolley,Material Handling,379,307,349,337,157,Normal
+2025-07-01,P014,Hand Pallet Truck,Material Handling,443,463,410,496,184,Normal
+2025-08-01,P001,PP Strapping Roll,Strapping Solutions,294,360,199,455,89,Excess Stock
+2025-08-01,P002,PET Strapping Roll,Strapping Solutions,501,472,164,809,73,Excess Stock
+2025-08-01,P003,Bubble Wrap Roll,Protective Packaging,589,133,398,324,179,Normal
+2025-08-01,P004,EPE Foam Roll,Protective Packaging,398,278,289,387,130,Normal
+2025-08-01,P005,Stretch Film Roll,Stretch / Film Solutions,272,381,115,538,51,Excess Stock
+2025-08-01,P006,Shrink Film Roll,Stretch / Film Solutions,132,35,153,14,68,Low Stock
+2025-08-01,P007,Wooden Pallet,Pallet Solutions,551,263,130,684,58,Excess Stock
+2025-08-01,P008,Plastic Pallet,Pallet Solutions,101,444,394,151,177,Low Stock
+2025-08-01,P009,Manual Strapping Tool,Packaging Tools & Equipment,112,456,150,418,67,Excess Stock
+2025-08-01,P010,Battery Strapping Machine,Packaging Tools & Equipment,158,185,242,101,108,Low Stock
+2025-08-01,P011,5-Ply Corrugated Box,Customized Carton Boxes,596,141,335,402,150,Normal
+2025-08-01,P012,7-Ply Corrugated Box,Customized Carton Boxes,401,245,243,403,109,Excess Stock
+2025-08-01,P013,Platform Trolley,Material Handling,366,137,445,58,200,Low Stock
+2025-08-01,P014,Hand Pallet Truck,Material Handling,139,451,28,562,20,Excess Stock
+2025-09-01,P001,PP Strapping Roll,Strapping Solutions,494,441,149,786,67,Excess Stock
+2025-09-01,P002,PET Strapping Roll,Strapping Solutions,272,58,416,0,187,Low Stock
+2025-09-01,P003,Bubble Wrap Roll,Protective Packaging,452,222,243,431,109,Excess Stock
+2025-09-01,P004,EPE Foam Roll,Protective Packaging,119,338,112,345,50,Excess Stock
+2025-09-01,P005,Stretch Film Roll,Stretch / Film Solutions,371,458,312,517,140,Excess Stock
+2025-09-01,P006,Shrink Film Roll,Stretch / Film Solutions,150,459,305,304,137,Normal
+2025-09-01,P007,Wooden Pallet,Pallet Solutions,138,193,398,0,179,Low Stock
+2025-09-01,P008,Plastic Pallet,Pallet Solutions,253,134,125,262,56,Excess Stock
+2025-09-01,P009,Manual Strapping Tool,Packaging Tools & Equipment,145,256,443,0,199,Low Stock
+2025-09-01,P010,Battery Strapping Machine,Packaging Tools & Equipment,457,356,403,410,181,Normal
+2025-09-01,P011,5-Ply Corrugated Box,Customized Carton Boxes,441,456,406,491,182,Normal
+2025-09-01,P012,7-Ply Corrugated Box,Customized Carton Boxes,235,398,164,469,73,Excess Stock
+2025-09-01,P013,Platform Trolley,Material Handling,161,116,141,136,63,Normal
+2025-09-01,P014,Hand Pallet Truck,Material Handling,53,129,392,0,176,Low Stock
+2025-10-01,P001,PP Strapping Roll,Strapping Solutions,126,358,206,278,92,Excess Stock
+2025-10-01,P002,PET Strapping Roll,Strapping Solutions,418,497,401,514,180,Normal
+2025-10-01,P003,Bubble Wrap Roll,Protective Packaging,544,459,66,937,29,Excess Stock
+2025-10-01,P004,EPE Foam Roll,Protective Packaging,427,144,110,461,49,Excess Stock
+2025-10-01,P005,Stretch Film Roll,Stretch / Film Solutions,329,253,308,274,138,Normal
+2025-10-01,P006,Shrink Film Roll,Stretch / Film Solutions,124,316,84,356,37,Excess Stock
+2025-10-01,P007,Wooden Pallet,Pallet Solutions,118,216,66,268,29,Excess Stock
+2025-10-01,P008,Plastic Pallet,Pallet Solutions,347,292,394,245,177,Normal
+2025-10-01,P009,Manual Strapping Tool,Packaging Tools & Equipment,147,257,345,59,155,Low Stock
+2025-10-01,P010,Battery Strapping Machine,Packaging Tools & Equipment,153,379,45,487,20,Excess Stock
+2025-10-01,P011,5-Ply Corrugated Box,Customized Carton Boxes,249,379,38,590,20,Excess Stock
+2025-10-01,P012,7-Ply Corrugated Box,Customized Carton Boxes,491,78,87,482,39,Excess Stock
+2025-10-01,P013,Platform Trolley,Material Handling,426,288,402,312,180,Normal
+2025-10-01,P014,Hand Pallet Truck,Material Handling,578,79,367,290,165,Normal
+2025-11-01,P001,PP Strapping Roll,Strapping Solutions,403,360,207,556,93,Excess Stock
+2025-11-01,P002,PET Strapping Roll,Strapping Solutions,362,377,259,480,116,Excess Stock
+2025-11-01,P003,Bubble Wrap Roll,Protective Packaging,380,382,252,510,113,Excess Stock
+2025-11-01,P004,EPE Foam Roll,Protective Packaging,324,490,192,622,86,Excess Stock
+2025-11-01,P005,Stretch Film Roll,Stretch / Film Solutions,345,495,102,738,45,Excess Stock
+2025-11-01,P006,Shrink Film Roll,Stretch / Film Solutions,212,46,110,148,49,Excess Stock
+2025-11-01,P007,Wooden Pallet,Pallet Solutions,261,104,67,298,30,Excess Stock
+2025-11-01,P008,Plastic Pallet,Pallet Solutions,573,454,403,624,181,Excess Stock
+2025-11-01,P009,Manual Strapping Tool,Packaging Tools & Equipment,329,198,351,176,157,Normal
+2025-11-01,P010,Battery Strapping Machine,Packaging Tools & Equipment,152,133,92,193,41,Excess Stock
+2025-11-01,P011,5-Ply Corrugated Box,Customized Carton Boxes,358,300,443,215,199,Normal
+2025-11-01,P012,7-Ply Corrugated Box,Customized Carton Boxes,173,164,353,0,158,Low Stock
+2025-11-01,P013,Platform Trolley,Material Handling,307,161,40,428,20,Excess Stock
+2025-11-01,P014,Hand Pallet Truck,Material Handling,245,275,195,325,87,Excess Stock
+2025-12-01,P001,PP Strapping Roll,Strapping Solutions,52,299,441,0,198,Low Stock
+2025-12-01,P002,PET Strapping Roll,Strapping Solutions,77,210,361,0,162,Low Stock
+2025-12-01,P003,Bubble Wrap Roll,Protective Packaging,503,425,256,672,115,Excess Stock
+2025-12-01,P004,EPE Foam Roll,Protective Packaging,92,146,386,0,173,Low Stock
+2025-12-01,P005,Stretch Film Roll,Stretch / Film Solutions,61,109,288,0,129,Low Stock
+2025-12-01,P006,Shrink Film Roll,Stretch / Film Solutions,394,66,124,336,55,Excess Stock
+2025-12-01,P007,Wooden Pallet,Pallet Solutions,59,194,242,11,108,Low Stock
+2025-12-01,P008,Plastic Pallet,Pallet Solutions,176,285,399,62,179,Low Stock
+2025-12-01,P009,Manual Strapping Tool,Packaging Tools & Equipment,398,492,154,736,69,Excess Stock
+2025-12-01,P010,Battery Strapping Machine,Packaging Tools & Equipment,221,228,153,296,68,Excess Stock
+2025-12-01,P011,5-Ply Corrugated Box,Customized Carton Boxes,77,130,214,0,96,Low Stock
+2025-12-01,P012,7-Ply Corrugated Box,Customized Carton Boxes,499,443,134,808,60,Excess Stock
+2025-12-01,P013,Platform Trolley,Material Handling,390,80,251,219,112,Normal
+2025-12-01,P014,Hand Pallet Truck,Material Handling,83,431,33,481,20,Excess Stock

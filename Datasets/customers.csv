@@ -1,0 +1,121 @@
+Customer_ID,Customer_Name,Industry,City,State,Region,Customer_Size
+CUST001,Prime Industries,Textiles,Patna,Bihar,East,Small
+CUST002,Global Pvt Ltd,FMCG,Noida,Uttar Pradesh,North,Large
+CUST003,Prime Logistics,Retail,Coimbatore,Tamil Nadu,South,Small
+CUST004,Prime Manufacturing,Electronics,Mumbai,Maharashtra,West,Large
+CUST005,Apex Logistics,Electronics,Bhubaneswar,Odisha,East,Large
+CUST006,Vertex Enterprises,Electronics,Patna,Bihar,East,Medium
+CUST007,Shree Industries,Pharmaceuticals,Kolkata,West Bengal,East,Large
+CUST008,Metro Traders,Pharmaceuticals,Chennai,Tamil Nadu,South,Small
+CUST009,Prime Industries,Retail,Ludhiana,Punjab,North,Small
+CUST010,Metro Logistics,Textiles,Chandigarh,Chandigarh,North,Small
+CUST011,Vertex Industries,Retail,Hyderabad,Telangana,South,Small
+CUST012,Shree Pvt Ltd,Engineering,Coimbatore,Tamil Nadu,South,Large
+CUST013,Prime Industries,Electronics,Delhi,Delhi,North,Medium
+CUST014,National Industries,Retail,Ahmedabad,Gujarat,West,Medium
+CUST015,Metro Manufacturing,Engineering,Hyderabad,Telangana,South,Medium
+CUST016,Shree Pvt Ltd,FMCG,Delhi,Delhi,North,Large
+CUST017,Global Logistics,Electronics,Patna,Bihar,East,Small
+CUST018,Sunrise Traders,Chemicals,Hyderabad,Telangana,South,Small
+CUST019,Apex Manufacturing,Automotive,Ludhiana,Punjab,North,Medium
+CUST020,Shree Industries,Electronics,Bengaluru,Karnataka,South,Large
+CUST021,National Pvt Ltd,Logistics,Ludhiana,Punjab,North,Medium
+CUST022,United Manufacturing,Textiles,Patna,Bihar,East,Small
+CUST023,Vertex Logistics,Textiles,Noida,Uttar Pradesh,North,Large
+CUST024,Sunrise Logistics,Retail,Kolkata,West Bengal,East,Medium
+CUST025,Global Logistics,Logistics,Noida,Uttar Pradesh,North,Small
+CUST026,Prime Manufacturing,Pharmaceuticals,Pune,Maharashtra,West,Large
+CUST027,Om Industries,Retail,Chennai,Tamil Nadu,South,Medium
+CUST028,United Logistics,Textiles,Bhubaneswar,Odisha,East,Large
+CUST029,Prime Pvt Ltd,Chemicals,Mumbai,Maharashtra,West,Medium
+CUST030,Metro Industries,Textiles,Patna,Bihar,East,Medium
+CUST031,United Industries,Textiles,Bhopal,Madhya Pradesh,Central,Large
+CUST032,Vertex Industries,Textiles,Bhopal,Madhya Pradesh,Central,Large
+CUST033,Om Manufacturing,Pharmaceuticals,Kochi,Kerala,South,Medium
+CUST034,Vertex Logistics,Automotive,Bhopal,Madhya Pradesh,Central,Large
+CUST035,United Industries,FMCG,Ludhiana,Punjab,North,Medium
+CUST036,National Industries,Electronics,Jaipur,Rajasthan,North,Large
+CUST037,Prime Pvt Ltd,Logistics,Ahmedabad,Gujarat,West,Small
+CUST038,Global Manufacturing,Logistics,Coimbatore,Tamil Nadu,South,Large
+CUST039,Shree Logistics,Retail,Bhopal,Madhya Pradesh,Central,Small
+CUST040,National Pvt Ltd,Textiles,Coimbatore,Tamil Nadu,South,Medium
+CUST041,Metro Enterprises,Chemicals,Patna,Bihar,East,Medium
+CUST042,National Manufacturing,FMCG,Surat,Gujarat,West,Medium
+CUST043,Om Logistics,Electronics,Mumbai,Maharashtra,West,Large
+CUST044,Apex Industries,Automotive,Noida,Uttar Pradesh,North,Small
+CUST045,Apex Traders,FMCG,Ahmedabad,Gujarat,West,Large
+CUST046,Shree Pvt Ltd,Logistics,Noida,Uttar Pradesh,North,Small
+CUST047,Global Pvt Ltd,Logistics,Coimbatore,Tamil Nadu,South,Small
+CUST048,Sunrise Manufacturing,FMCG,Vijayawada,Andhra Pradesh,South,Small
+CUST049,Metro Enterprises,Retail,Chennai,Tamil Nadu,South,Medium
+CUST050,Prime Industries,Retail,Pune,Maharashtra,West,Large
+CUST051,Prime Manufacturing,Electronics,Ludhiana,Punjab,North,Small
+CUST052,United Manufacturing,Retail,Coimbatore,Tamil Nadu,South,Small
+CUST053,United Manufacturing,FMCG,Gurugram,Haryana,North,Medium
+CUST054,Prime Industries,Chemicals,Coimbatore,Tamil Nadu,South,Small
+CUST055,National Manufacturing,Retail,Ahmedabad,Gujarat,West,Medium
+CUST056,National Enterprises,Automotive,Vijayawada,Andhra Pradesh,South,Small
+CUST057,Apex Enterprises,Textiles,Bengaluru,Karnataka,South,Medium
+CUST058,Sunrise Pvt Ltd,Chemicals,Jaipur,Rajasthan,North,Large
+CUST059,Global Manufacturing,Textiles,Vijayawada,Andhra Pradesh,South,Small
+CUST060,Om Pvt Ltd,Chemicals,Pune,Maharashtra,West,Small
+CUST061,Apex Industries,Logistics,Ludhiana,Punjab,North,Large
+CUST062,Global Industries,Chemicals,Kochi,Kerala,South,Small
+CUST063,Prime Logistics,FMCG,Bhopal,Madhya Pradesh,Central,Large
+CUST064,Sunrise Industries,Electronics,Noida,Uttar Pradesh,North,Large
+CUST065,Apex Logistics,FMCG,Bhubaneswar,Odisha,East,Medium
+CUST066,Om Logistics,Engineering,Kolkata,West Bengal,East,Medium
+CUST067,Metro Manufacturing,Textiles,Delhi,Delhi,North,Medium
+CUST068,Shree Enterprises,Engineering,Indore,Madhya Pradesh,Central,Small
+CUST069,United Logistics,FMCG,Mumbai,Maharashtra,West,Small
+CUST070,National Logistics,Textiles,Coimbatore,Tamil Nadu,South,Small
+CUST071,Prime Manufacturing,Engineering,Chandigarh,Chandigarh,North,Medium
+CUST072,United Logistics,Textiles,Bhopal,Madhya Pradesh,Central,Large
+CUST073,Vertex Industries,Chemicals,Patna,Bihar,East,Medium
+CUST074,Global Traders,FMCG,Surat,Gujarat,West,Small
+CUST075,Global Traders,Textiles,Coimbatore,Tamil Nadu,South,Large
+CUST076,Metro Manufacturing,Textiles,Delhi,Delhi,North,Large
+CUST077,Shree Industries,FMCG,Vijayawada,Andhra Pradesh,South,Large
+CUST078,Shree Industries,Automotive,Chennai,Tamil Nadu,South,Medium
+CUST079,Shree Manufacturing,Logistics,Indore,Madhya Pradesh,Central,Large
+CUST080,Vertex Industries,FMCG,Chennai,Tamil Nadu,South,Small
+CUST081,Vertex Industries,Engineering,Indore,Madhya Pradesh,Central,Large
+CUST082,Global Enterprises,Pharmaceuticals,Coimbatore,Tamil Nadu,South,Small
+CUST083,Metro Industries,Engineering,Jaipur,Rajasthan,North,Small
+CUST084,Prime Traders,Chemicals,Noida,Uttar Pradesh,North,Medium
+CUST085,Global Manufacturing,Pharmaceuticals,Bhubaneswar,Odisha,East,Small
+CUST086,Apex Manufacturing,Engineering,Chennai,Tamil Nadu,South,Medium
+CUST087,Shree Manufacturing,FMCG,Noida,Uttar Pradesh,North,Medium
+CUST088,United Manufacturing,Electronics,Pune,Maharashtra,West,Medium
+CUST089,Shree Manufacturing,Electronics,Chandigarh,Chandigarh,North,Small
+CUST090,Sunrise Traders,Textiles,Delhi,Delhi,North,Small
+CUST091,Metro Pvt Ltd,Chemicals,Gurugram,Haryana,North,Medium
+CUST092,Metro Industries,FMCG,Coimbatore,Tamil Nadu,South,Medium
+CUST093,Om Traders,Automotive,Bhopal,Madhya Pradesh,Central,Small
+CUST094,Sunrise Traders,Engineering,Bhubaneswar,Odisha,East,Medium
+CUST095,Vertex Industries,Retail,Bhubaneswar,Odisha,East,Large
+CUST096,Shree Industries,Retail,Delhi,Delhi,North,Small
+CUST097,Vertex Pvt Ltd,Electronics,Kochi,Kerala,South,Medium
+CUST098,Prime Pvt Ltd,Engineering,Chennai,Tamil Nadu,South,Large
+CUST099,Prime Pvt Ltd,Textiles,Ludhiana,Punjab,North,Large
+CUST100,Sunrise Traders,Retail,Jaipur,Rajasthan,North,Large
+CUST101,Vertex Manufacturing,Electronics,Jaipur,Rajasthan,North,Medium
+CUST102,Global Logistics,Textiles,Bengaluru,Karnataka,South,Medium
+CUST103,Apex Traders,Textiles,Coimbatore,Tamil Nadu,South,Small
+CUST104,Om Logistics,Engineering,Chennai,Tamil Nadu,South,Medium
+CUST105,United Pvt Ltd,Electronics,Hyderabad,Telangana,South,Large
+CUST106,Global Pvt Ltd,FMCG,Vijayawada,Andhra Pradesh,South,Medium
+CUST107,Om Traders,FMCG,Kochi,Kerala,South,Small
+CUST108,National Manufacturing,Pharmaceuticals,Jaipur,Rajasthan,North,Small
+CUST109,National Enterprises,FMCG,Pune,Maharashtra,West,Medium
+CUST110,Om Manufacturing,Retail,Chennai,Tamil Nadu,South,Medium
+CUST111,National Manufacturing,Automotive,Bengaluru,Karnataka,South,Small
+CUST112,National Manufacturing,Chemicals,Chennai,Tamil Nadu,South,Medium
+CUST113,Vertex Manufacturing,FMCG,Pune,Maharashtra,West,Medium
+CUST114,United Pvt Ltd,Chemicals,Indore,Madhya Pradesh,Central,Large
+CUST115,Metro Enterprises,Chemicals,Bhubaneswar,Odisha,East,Medium
+CUST116,United Manufacturing,Logistics,Coimbatore,Tamil Nadu,South,Medium
+CUST117,National Pvt Ltd,Textiles,Gurugram,Haryana,North,Large
+CUST118,National Traders,Logistics,Vijayawada,Andhra Pradesh,South,Small
+CUST119,National Traders,Engineering,Jaipur,Rajasthan,North,Medium
+CUST120,Prime Manufacturing,Pharmaceuticals,Coimbatore,Tamil Nadu,South,Small
